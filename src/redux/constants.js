@@ -1,0 +1,3 @@
+export const FETCH_SEARCH = "FETCH_SEARCH";
+export const SAVE_SEARCH = "SAVE_SEARCH";
+export const DELETE_SEARCH = "DELETE_SEARCH";
